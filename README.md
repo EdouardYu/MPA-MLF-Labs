@@ -6,4 +6,8 @@ This repository contains the lab submissions for the **Machine Learning Fundamen
 
 **Lab 1:** Python practice  
 **Lab 2:** KMeans  
-**Lab 2:** SVM
+**Lab 3:** SVM  
+**Lab 4:** PCA  
+**Lab 5:** ANN  
+**Lab 6:** ANN tuning  
+**Lab 7:** CNN
